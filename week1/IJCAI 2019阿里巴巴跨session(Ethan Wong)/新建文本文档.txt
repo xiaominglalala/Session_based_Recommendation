@@ -1,0 +1,9 @@
+https://github.com/shenweichen/DSIN
+
+阿里 at IJCAI 2019，
+考虑到不同用户行为序列的session内行为同构与session之间行为异构的特性
+提出了基于sesssion的CTR预估模型DSIN。
+使用self-attention机制抽取session内用户兴趣，
+使用Bi-LSTM针对用户跨session兴趣进行建模。
+
+
