@@ -1,0 +1,5 @@
+阿里 at KDD2019，
+通过引入UIC存储单元与MIMN模型联合设计，
+解决用户超长行为历史下CTR预估建模与在线预测性能瓶颈，
+效果好于GRU4Rec和DIEN。
+https://github.com/UIC-Paper/MIMN
