@@ -8,3 +8,4 @@
 - [Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction](https://arxiv.org/abs/1905.09248)
 - [Session-Based Recommendation with Graph Neural Networks](https://arxiv.org/pdf/1811.00855.pdf)
 - 《推荐系统实践》 （补充了一些基础知识）
+- [PaddleRec模型库](https://github.com/PaddlePaddle/models/tree/develop/PaddleRec)
